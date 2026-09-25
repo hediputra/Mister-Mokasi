@@ -1,0 +1,6 @@
+{
+  "name": "Mr. Mokas - Showroom Mobil & Motor Bekas Bergaransi",
+  "description": "Platform showroom digital mobil dan motor bekas terverifikasi dengan inspeksi 150+ titik dan grading kualitas A+ hingga E.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
